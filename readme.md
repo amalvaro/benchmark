@@ -28,6 +28,7 @@ SortingAlgorithmBenchmark.bubbleSort         1000         rand  avgt    6     78
 SortingAlgorithmBenchmark.bubbleSort        10000          asc  avgt    6       4,863 ±     2,129  us/op
 SortingAlgorithmBenchmark.bubbleSort        10000         desc  avgt    6  102511,444 ±  3938,156  us/op
 SortingAlgorithmBenchmark.bubbleSort        10000         rand  avgt    6  106599,576 ± 17830,589  us/op
+
 SortingAlgorithmBenchmark.quickSort           100          asc  avgt    6       0,664 ±     0,023  us/op
 SortingAlgorithmBenchmark.quickSort           100         desc  avgt    6       0,847 ±     0,030  us/op
 SortingAlgorithmBenchmark.quickSort           100         rand  avgt    6       3,919 ±     0,026  us/op
